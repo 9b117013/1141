@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 忽略 SQLite 資料庫檔案
+*.db
+
+# 忽略 .vscode 目錄
+.vscode/
